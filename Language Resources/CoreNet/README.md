@@ -1,4 +1,4 @@
-CoreNet Language Resources
+CoreNet Language Resources 
 =========
 KAIST Natural Language Processing Language Resources
 
