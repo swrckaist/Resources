@@ -1,4 +1,4 @@
-Resources
+Language Resources
 =========
-KAIST Natural Language Processing Resources
+KAIST Natural Language Processing Language Resources
 
